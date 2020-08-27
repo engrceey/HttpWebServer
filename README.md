@@ -1,9 +1,6 @@
-# week-6-task-engrceey
-week-6-task-engrceey created by GitHub Classroom
 
-Task:
 
-Web Server
+# Web Server
 
 Create an http server using raw java socket. 
 The http server would have 2 two or more endpoints which are: 
