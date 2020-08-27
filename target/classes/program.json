@@ -1,0 +1,11 @@
+{
+  "Top Java Libraries" : {
+    "Logging Libraries": "Log4j, SLF4j, and LogBack",
+    "JSON Parsing libraries": "Jackson and Gson",
+    "Unit Testing Libraries": "JUnit, Mockito, and PowerMock",
+    "General Purpose Libraries": "Apache Commons and Google Guava",
+    "HTTP Libraries": "Apache HttpClient and HttpCore",
+    "XML Parsing Libraries": "Xerces, JAXB, JAXP, Dom4j, and Xstream",
+    "Excel Reading Libraries": "Apache POI API"
+  }
+}
